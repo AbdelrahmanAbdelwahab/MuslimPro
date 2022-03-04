@@ -5,5 +5,6 @@ target 'MuslimPro' do
   use_frameworks!
 
   # Pods for MuslimPro
-  pod 'FSCalendar'
+  	pod 'FSCalendar' 
+    pod 'lottie-ios'
 end
